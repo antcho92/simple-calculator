@@ -1,0 +1,25 @@
+body {
+  background-color: #21174b;
+}
+#calculator {
+  width: 350px;
+  height: 380px;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  /*padding: 5px;*/
+  text-align: center;
+  background-color: #696090;
+}
+button {
+  margin: 5px;
+  width: 60px;
+  height: 40px;
+  vertical-align: top;
+}
+input {
+  width: 280px;
+  margin: -5px 10px 10px 10px;
+  height: 30px;
+  text-align: right;
+}
